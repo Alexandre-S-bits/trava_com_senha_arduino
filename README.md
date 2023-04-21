@@ -1,7 +1,7 @@
 # Trava com Senha
 Projeto de Arduino que libera a trava apenas ao inserir a senha correta
 
-Foi desenvolvido usando o Tinker Card que simula o arduino e componentes online
+Foi desenvolvido usando o Tinkercad que simula o arduino e componentes online
 
 <br>
 
